@@ -1,3 +1,3 @@
 # onlineshop
 
-code in master branch
+clone from master branch (git clone -b master https://github.com/aravindls/onlineshop.git)
