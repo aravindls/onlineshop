@@ -18,3 +18,5 @@ step 6 : use following urls for required result
                                 http://127.0.0.1:8000/products/filter/?category=<pk>,<pk> multiple category
                                 
  Use admin panel for CRUD operations
+ admin username : admin
+ password       : admin
